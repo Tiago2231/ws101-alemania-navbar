@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #1bcaca;
+  color: white;
+}
+
+.navbar ul {
+  list-style: disc;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  margin: 0 50px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color:   
+ white;
+}
+
+@media (max-width: 480px) {
+  .navbar ul {
+    list-style: disc;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column
+  }
+}
