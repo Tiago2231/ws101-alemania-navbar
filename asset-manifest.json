@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-alemania-navbar/static/css/main.d72d0afa.css",
+    "main.js": "/ws101-alemania-navbar/static/js/main.b504e156.js",
+    "static/js/453.8df91c65.chunk.js": "/ws101-alemania-navbar/static/js/453.8df91c65.chunk.js",
+    "static/media/ryom.jpg": "/ws101-alemania-navbar/static/media/ryom.0d91f5e71d63601156c8.jpg",
+    "index.html": "/ws101-alemania-navbar/index.html",
+    "main.d72d0afa.css.map": "/ws101-alemania-navbar/static/css/main.d72d0afa.css.map",
+    "main.b504e156.js.map": "/ws101-alemania-navbar/static/js/main.b504e156.js.map",
+    "453.8df91c65.chunk.js.map": "/ws101-alemania-navbar/static/js/453.8df91c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72d0afa.css",
+    "static/js/main.b504e156.js"
+  ]
+}
